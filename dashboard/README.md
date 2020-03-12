@@ -49,7 +49,7 @@ Overall, we would like this dashboard to go above and beyond the apps that are p
     1. Log in using sample log in information provided at top.
     2. Use the toggles on the left side to show the data you're interested in.
 
-    ![]("https://drive.google.com/file/d/1DgtRa_BB3d7C2tf2yOAGrJDXtEffnix5/preview)
+    ![Demo](dashboard/client/src/assets/img/smartHealthGif.gif)
 # Colors/Patterns Used
 
     Blue/Green = rgb(91,140,133)
