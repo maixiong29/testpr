@@ -1,0 +1,110 @@
+@import "../../../styles/base.scss";
+
+.jumbotron {
+    background-image: url("../../../img/hexpattern.png");
+    height: 100%;
+}
+
+.small-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+}
+
+.big-card {
+    position:absolute;
+    left:45%;
+    top:-30px;
+    border-radius:50%;
+}
+
+.card-about{
+    border: 2px solid $primaryBlue;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.text-about{
+    color: $primaryBlue;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.card-heartrate{
+    border: 2px solid $primaryOrange;
+}
+.text-heartrate{
+    color: $primaryOrange;
+}
+
+.card-steps{
+    border: 2px solid $darkDark;
+}
+.text-steps{
+    color: $darkDark;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.card-sleep{
+    border: 2px solid $lightOrange;
+}
+.text-sleep{
+    color: $lightOrange;
+}
+
+.bigtext {
+    margin-top: 15px;
+}
+
+.card-activity{
+    border: 2px solid $darkDark;
+}
+.text-activity{
+    color: $darkDark;
+    font-size: 20px;
+}
+
+.card-battery{
+    border: 2px solid $primaryBlue;
+}
+.text-battery{
+    color: $primaryBlue;
+}
+
+.bigcards {
+    margin-top: 50px;
+}
+
+.test-test {
+    margin-top: 200px;
+}
+
+.thumbnail {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+.ashleypic {
+    border-radius: 50%;
+}
+
+.hayleepic {
+    border-radius: 50%;
+}
+
+.kapic {
+    border-radius: 50%;
+}
+
+.maipic {
+    border-radius: 50%;
+}
